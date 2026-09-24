@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Boot.dev Learn SQL certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/15b1e572-30cb-4f6c-8f51-d6c26ad7edc9.jpeg?v=1790217515)](https://www.boot.dev/certificates/15b1e572-30cb-4f6c-8f51-d6c26ad7edc9)
