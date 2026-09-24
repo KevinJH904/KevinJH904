@@ -30,8 +30,6 @@ Ingeniero en Sistemas enfocado en el desarrollo de software y backend. Me apasio
 
 ### 📜 Certificaciones & Logros
 
-### 📜 Certificaciones & Logros
-
 <div align="center">
   <table>
     <tr>
@@ -43,7 +41,7 @@ Ingeniero en Sistemas enfocado en el desarrollo de software y backend. Me apasio
         <b>Learn SQL</b><br />
         <sub>Boot.dev</sub>
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="30%">
         <a href="https://www.credly.com/badges/4b20af1d-acce-4b9d-a9ee-2dab2875eb13/public_url" target="_blank">
           <img src="https://images.credly.com/size/340x340/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" width="130" alt="CCNA: ENSA" />
         </a>
@@ -51,7 +49,7 @@ Ingeniero en Sistemas enfocado en el desarrollo de software y backend. Me apasio
         <b>CCNA: ENSA</b><br />
         <sub>Cisco (Credly)</sub>
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="30%">
         <a href="https://www.credly.com/badges/4654e8af-be93-4941-8cd4-2500310327ee/public_url" target="_blank">
           <img src="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" width="130" alt="CCNA: SRWE" />
         </a>
