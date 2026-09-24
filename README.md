@@ -34,8 +34,7 @@ Ingeniero en Sistemas enfocado en el desarrollo de software y backend. Me apasio
 <div align="center">
 
 <!-- Pega aquí el snippet o enlace que te dio Boot.dev -->
-[![Boot.dev Certificate](URL_DE_TU_IMAGEN)](URL_DE_VERIFICACION)
-
+[![Boot.dev Learn SQL certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/15b1e572-30cb-4f6c-8f51-d6c26ad7edc9.jpeg?v=1790217515)](https://www.boot.dev/certificates/15b1e572-30cb-4f6c-8f51-d6c26ad7edc9)
 </div>
 
 ---
