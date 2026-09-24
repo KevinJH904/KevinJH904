@@ -34,7 +34,15 @@ Ingeniero en Sistemas enfocado en el desarrollo de software y backend. Me apasio
 
 <!-- Pega aquí el snippet o enlace que te dio Boot.dev -->
 [![Boot.dev Learn SQL certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/15b1e572-30cb-4f6c-8f51-d6c26ad7edc9.jpeg?v=1790217515)](https://www.boot.dev/certificates/15b1e572-30cb-4f6c-8f51-d6c26ad7edc9)
+
+<!-- Insignia Credly -->
+<a href="https://www.credly.com/badges/4b20af1d-acce-4b9d-a9ee-2dab2875eb13/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" width="130" alt="Nombre Certificación Credly" />
+</a>
+
 </div>
+
+
 
 ---
 
