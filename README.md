@@ -33,25 +33,33 @@ Ingeniero en Sistemas enfocado en el desarrollo de software y backend. Me apasio
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
+      <td align="center" width="25%">
         <a href="https://www.boot.dev/certificates/15b1e572-30cb-4f6c-8f51-d6c26ad7edc9" target="_blank">
-          <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/15b1e572-30cb-4f6c-8f51-d6c26ad7edc9.jpeg?v=1790217515" width="200" alt="Boot.dev Learn SQL" />
+          <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/15b1e572-30cb-4f6c-8f51-d6c26ad7edc9.jpeg?v=1790217515" width="180" alt="Boot.dev Learn SQL" />
         </a>
         <br />
         <b>Learn SQL</b><br />
         <sub>Boot.dev</sub>
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="25%">
+        <a href="https://www.boot.dev/certificates/5383f1eb-76b9-42e2-bf4b-018d01d862b3" target="_blank">
+          <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/5383f1eb-76b9-42e2-bf4b-018d01d862b3.jpeg?v=1790282824" width="180" alt="Boot.dev Learn Linux" />
+        </a>
+        <br />
+        <b>Learn Linux</b><br />
+        <sub>Boot.dev</sub>
+      </td>
+      <td align="center" width="25%">
         <a href="https://www.credly.com/badges/4b20af1d-acce-4b9d-a9ee-2dab2875eb13/public_url" target="_blank">
-          <img src="https://images.credly.com/size/340x340/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" width="130" alt="CCNA: ENSA" />
+          <img src="https://images.credly.com/size/340x340/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" width="120" alt="CCNA: ENSA" />
         </a>
         <br />
         <b>CCNA: ENSA</b><br />
         <sub>Cisco (Credly)</sub>
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="25%">
         <a href="https://www.credly.com/badges/4654e8af-be93-4941-8cd4-2500310327ee/public_url" target="_blank">
-          <img src="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" width="130" alt="CCNA: SRWE" />
+          <img src="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" width="120" alt="CCNA: SRWE" />
         </a>
         <br />
         <b>CCNA: SRWE</b><br />
@@ -60,7 +68,6 @@ Ingeniero en Sistemas enfocado en el desarrollo de software y backend. Me apasio
     </tr>
   </table>
 </div>
-
 
 
 ---
