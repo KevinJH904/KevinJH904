@@ -1,19 +1,46 @@
-## Hi there 👋
+# ¡Hola! Soy Kevin 👋
 
-<!--
-**KevinJH904/KevinJH904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero en Sistemas enfocado en el desarrollo de software y backend. Me apasiona resolver problemas complejos, diseñar arquitecturas eficientes y escribir código limpio y estructurado.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí
 
+- 💻 Desarrollando proyectos con enfoque en **Java, Python y tecnologías web**.
+- 🛠️ Experiencia trabajando en entornos **Linux** y control de versiones con **Git/GitHub**.
+- 🎯 Fortaleciendo habilidades en diseño de bases de datos relacionales y optimización de consultas SQL.
+- ⚡ Siempre aprendiendo nuevas herramientas y mejores prácticas de arquitectura de software.
 
-[![Boot.dev Learn SQL certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/15b1e572-30cb-4f6c-8f51-d6c26ad7edc9.jpeg?v=1790217515)](https://www.boot.dev/certificates/15b1e572-30cb-4f6c-8f51-d6c26ad7edc9)
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+**Lenguajes:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Entorno & Herramientas:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+### 📜 Certificaciones & Logros
+
+<div align="center">
+
+<!-- Pega aquí el snippet o enlace que te dio Boot.dev -->
+[![Boot.dev Certificate](URL_DE_TU_IMAGEN)](URL_DE_VERIFICACION)
+
+</div>
+
+---
+
+### 📫 Conectemos
+
+- **LinkedIn:** [tu-perfil](https://linkedin.com/in/tu-usuario)
+- **Portafolio / Web:** [tu-web](https://tu-sitio.com)
