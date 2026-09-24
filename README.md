@@ -30,37 +30,21 @@ Ingeniero en Sistemas enfocado en el desarrollo de software y backend. Me apasio
 
 ### 📜 Certificaciones & Logros
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="URL_VERIFICACION_BOOTDEV" target="_blank">
-        <img src="URL_IMAGEN_BOOTDEV" width="320" style="border-radius: 8px;" alt="Boot.dev Learn SQL" />
-      </a>
-      <br />
-      <strong>Learn SQL</strong>
-      <br />
-      <sub>Boot.dev</sub>
-    </td>
-    <td align="center" width="25%">
-      <a href="URL_VERIFICACION_CISCO_1" target="_blank">
-        <img src="URL_IMAGEN_CISCO_1" width="130" alt="CCNA Enterprise" />
-      </a>
-      <br />
-      <strong>CCNA: Enterprise</strong>
-      <br />
-      <sub>Cisco Networking Academy</sub>
-    </td>
-    <td align="center" width="25%">
-      <a href="URL_VERIFICACION_CISCO_2" target="_blank">
-        <img src="URL_IMAGEN_CISCO_2" width="130" alt="CCNA Switching" />
-      </a>
-      <br />
-      <strong>CCNA: Switching</strong>
-      <br />
-      <sub>Cisco Networking Academy</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <a href="https://www.boot.dev/certificates/15b1e572-30cb-4f6c-8f51-d6c26ad7edc9" target="_blank">
+    <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/15b1e572-30cb-4f6c-8f51-d6c26ad7edc9.jpeg?v=1790217515" width="220" alt="Boot.dev Learn SQL" style="vertical-align: middle; margin: 10px;" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/4b20af1d-acce-4b9d-a9ee-2dab2875eb13/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" width="130" alt="CCNA Enterprise Networking, Security, and Automation" style="vertical-align: middle; margin: 10px;" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/4654e8af-be93-4941-8cd4-2500310327ee/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" width="130" alt="CCNA Switching, Routing, and Wireless Essentials" style="vertical-align: middle; margin: 10px;" />
+  </a>
+
+</div>
 
 
 
