@@ -75,4 +75,4 @@ Ingeniero en Sistemas enfocado en el desarrollo de software y backend. Me apasio
 ### 📫 Conectemos
 
 - **LinkedIn:** [kevin-jh](https://www.linkedin.com/in/kevin-jh/))
-- **Portafolio / Web:** [Web de Portafolio](https://portafolio-56oi1e6n6-kvn-team.vercel.app/))
+- **Portafolio / Web:** [Web de Portafolio](https://portafolio-ihi2lq8ka-kvn-team.vercel.app/)))
